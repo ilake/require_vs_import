@@ -1,0 +1,32 @@
+Arguments: 
+  /usr/local/var/nvm/versions/node/v8.7.0/bin/node /usr/local/Cellar/yarn/1.2.0/libexec/bin/yarn.js init
+
+PATH: 
+  /Users/iamilake/.rvm/gems/ruby-2.3.1/bin:/Users/iamilake/.rvm/gems/ruby-2.3.1@global/bin:/Users/iamilake/.rvm/rubies/ruby-2.3.1/bin:/usr/local/var/nvm/versions/node/v8.7.0/bin:/Users/iamilake/.bin:/usr/local/share/npm/bin:/usr/local/bin:/Users/iamilake/.rvm/bin:/opt/local/bin:/opt/local/sbin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin://opt/X11/bin:/Users/iamilake/.rvm/bin
+
+Yarn version: 
+  1.2.0
+
+Node version: 
+  8.7.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  SyntaxError: /Users/iamilake/rails_app/nodejs_prj/require_vs_import/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.2.0/libexec/lib/cli.js:770:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.2.0/libexec/lib/cli.js:92:30)
+      at /usr/local/Cellar/yarn/1.2.0/libexec/lib/cli.js:103:13
+      at <anonymous>
